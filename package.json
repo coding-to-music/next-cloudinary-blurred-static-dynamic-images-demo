@@ -1,9 +1,10 @@
 {
-  "name": "my-next-cloudinary",
+  "name": "next-cloudinary-blurred-static-dynamic-images-demo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "deploy": "git add . && git commit -m 'chore: saving work' && git push",
     "build": "next build",
     "start": "next start"
   },
