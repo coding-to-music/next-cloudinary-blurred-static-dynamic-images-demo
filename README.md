@@ -135,7 +135,7 @@ And once loaded, you should now be able to open up your new app at http://localh
 
 Next.js app
 
-[image](./img/new-nextjs-app-1.jpg)
+![image](./img/new-nextjs-app-1.jpg)
 
 New Next.js app
 
@@ -188,7 +188,7 @@ And now, if we check out our page in the browser, we can see our new image!
 
 - Next.js app with galaxy image
 
-[](./img/nextjs-with-local-image.jpg)
+![image](./img/nextjs-with-local-image.jpg)
 
 - Loading a local image in Next.js
 
@@ -247,7 +247,7 @@ Now if we load up our page, we can see that our new image looks exactly like our
 
 - Next.js with 2 galaxy images: local and static from Cloudinary
 
-[](./img/nextjs-with-cloudinary-image.jpg)
+![image](./img/nextjs-with-cloudinary-image.jpg)
 
 - Galaxy images loading from local Next.js and Cloudinary
 
@@ -322,7 +322,7 @@ Here, we’re:
 
 ## Next.js with 3 different galaxy images: local, static, and pixelated dynamic from Cloudinary
 
-[](./img/nextjs-with-dynamic-cloudinary-pixelated-image.jpg)
+![image](./img/nextjs-with-dynamic-cloudinary-pixelated-image.jpg)
 
 - Dynamically loading a pixelated image from Cloudinary
 
@@ -371,7 +371,7 @@ And once we load up our page, we can see that something’s actually wrong!
 
 - Next.js with 2 galaxy images: dynamic and distorted image
 
-[](./img/nextjs-distorted-image.jpg)
+![image](./img/nextjs-distorted-image.jpg)
 
 - Blurred image distorted
 
@@ -397,7 +397,7 @@ Now, if we load up our page, we can see it works perfectly!
 
 - Next.js with dynamically blurred image from Cloudinary
 
-[](./img/nextjs-cloudinary-blurred-image.jpg)
+![image](./img/nextjs-cloudinary-blurred-image.jpg)
 
 - Blurred image from Cloudinary
 
@@ -447,7 +447,7 @@ If we reload the page, we might be able to see that before our real image loads,
 
 Animation showing blur effect
 
-[](./img/nextjs-blurred-image-placeholder-2.gif)
+![image](./img/nextjs-blurred-image-placeholder-2.gif)
 
 - Blurry placeholder image
 
@@ -511,7 +511,7 @@ Now, if we load this in our browser, it should by default load a blurred image, 
 
 Animation showing artificially delayed image placeholder
 
-[](./img/nextjs-blurred-image-artificial-delay-1.gif)
+![image](./img/nextjs-blurred-image-artificial-delay-1.gif)
 
 - Delaying load of image to show placeholder
 
