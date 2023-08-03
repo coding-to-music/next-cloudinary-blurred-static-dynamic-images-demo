@@ -137,6 +137,8 @@ Next.js app
 
 [](./images/new-nextjs-app-1.jpg)
 
+()[./images/new-nextjs-app-1.jpg]
+
 New Next.js app
 
 Note: I updated the title of the page and removed the description, feel free to do the same!
