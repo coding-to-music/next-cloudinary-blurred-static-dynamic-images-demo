@@ -38,7 +38,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Create Next App</title>
+        <title>Cloudinary Images Demo</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -47,7 +47,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <div className={styles.card}>
-            <Image src="/galaxy.jpg" alt="Galaxy" width={1000} height={750} />
+            <Image src="/galaxy.jpg" alt="Galaxy" width={400} height={250} />
             <h3>Local Image</h3>
           </div>
 
@@ -55,14 +55,14 @@ export default function Home() {
             <Image
               src="https://res.cloudinary.com/coding-to-music/image/upload/v1691040476/galaxy_vwleg5.jpg"
               alt="Galaxy"
-              width={1000}
-              height={750}
+              width={400}
+              height={250}
             />
             <h3>Cloudinary - Static</h3>
           </div>
 
           <div className={styles.card}>
-            <Image src={url} alt="Galaxy" width={1000} height={750} />
+            <Image src={url} alt="Galaxy" width={400} height={250} />
             <h3>Cloudinary - Dynamic</h3>
           </div>
 
@@ -85,7 +85,7 @@ export default function Home() {
                 }}
               >
                 {image && (
-                  <Image src={image} alt="Galaxy" width={1000} height={750} />
+                  <Image src={image} alt="Galaxy" width={400} height={250} />
                 )}
               </div>
             </div>
